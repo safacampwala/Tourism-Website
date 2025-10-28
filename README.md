@@ -261,6 +261,7 @@
 
     }
 }
+#mediaqueries.css
 
 @media screen and (max-width:871px) {
     .about {
